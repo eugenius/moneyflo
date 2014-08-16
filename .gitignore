@@ -1,0 +1,11 @@
+.idea/
+com_crashlytics_export_strings.xml
+.gradle
+build/
+*.apk
+*.ap_
+*.dex
+bin/
+gen/
+local.properties
+*.log
